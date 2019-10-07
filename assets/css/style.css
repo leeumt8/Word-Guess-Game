@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image: url("http://eskipaper.com/images/video-game-wallpapers-8.jpg");
+    background-size: auto;
+    background-repeat: no-repeat; 
+    height: 100vh;
+    color: cadetblue;
+}
+p {
+    font-size: x-large;
+}
